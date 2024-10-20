@@ -8,9 +8,9 @@ Welcome to the Java Placement Training repository! This repository contains all 
 - **Assignments**: Assignments focusing on advanced Java topics, aimed at preparing for placement exams.
 
 ## Key Topics Covered
-
+- Java Basic
 - Object-Oriented Programming (OOP)
-- Data Structures and Algorithms
+- Spring Boot
 - Exception Handling
 - File Handling
 - Collections Framework
@@ -21,7 +21,7 @@ Welcome to the Java Placement Training repository! This repository contains all 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/java-placement-training-anudip.git
+   git clone https://github.com/Amangupta97656/Anudip-Tranning-Session.git
    ```
 2. Navigate through the folders to find different questions and assignments.
 3. Run each Java file to practice and understand the solutions.
